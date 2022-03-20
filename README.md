@@ -1,6 +1,5 @@
 # Jarvis-Desktop-Assistant-using-Python
 Python A.I. assistant? Imagine how easier it would be to send emails without typing a single word, doing Wikipedia searches without opening web browsers, and performing many other daily tasks like playing music with the help of a single voice command. 
-
 What can this A.I. assistant do for you?
 It can send emails on your behalf.
 It can play music for you.
